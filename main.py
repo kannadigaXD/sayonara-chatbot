@@ -54,15 +54,15 @@ async def restart(client, m: Message):
     await asyncio.sleep(0.1)
     await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
     await asyncio.sleep(0.1)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚══ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.1)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚══ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣\n║\n║➣\n║\n╚══ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣\n║\n║➣\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣ @AGORAWORLD\n║\n║➣\n║\n╚══ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣ @AGORAWORLD\n║\n║➣\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣ @AGORAWORLD\n║\n║➣ @TEAMAGORA\n║\n╚══ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣ @AGORAWORLD\n║\n║➣ @TEAMAGORA\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
      
 
 @bot.on_message(
