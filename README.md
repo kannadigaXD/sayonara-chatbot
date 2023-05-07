@@ -1,4 +1,8 @@
 <p align="center">
+<b>𝐌𝐚𝐝𝐞 𝐁𝐲 𝐓𝐞𝐚𝐦 𝐀𝐠𝐨𝐫𝐚</b>
+</p>
+
+<p align="center">
   <img src="https://te.legra.ph/file/041244b4f9fc79852ab6d.jpg">
 </p>
 
