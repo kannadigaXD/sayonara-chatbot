@@ -50,19 +50,19 @@ async def restart(client, m: Message):
                 text = random.choice(EMOJIOS),
     )
     await asyncio.sleep(0.1)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❱═❍⊱❁۪۪")
     await asyncio.sleep(0.1)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║")
     await asyncio.sleep(0.1)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❱═❍⊱❁۪۪\n║\n║\n║\n║\n║\n║\n║\n╚═ஜʙᴏᴛ ᴍᴀᴅᴇ ʙʏஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.1)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❱═❍⊱❁۪۪\n║\n║➣\n║\n║➣\n║\n║➣\n║\n╚═ஜʙᴏᴛ ᴍᴀᴅᴇ ʙʏஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣\n║\n║➣\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❱═❍⊱❁۪۪\n║\n║➣ @SayonaraXd\n║\n║➣\n║\n║➣\n║\n╚═ஜʙᴏᴛ ᴍᴀᴅᴇ ʙʏஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣ @AGORAWORLD\n║\n║➣\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ ❱═❍⊱❁۪۪\n║\n║➣ @SayonaraXd\n║\n║➣ @Sayonaraxdbot\n║\n║➣\n║\n╚═ஜʙᴏᴛ ᴍᴀᴅᴇ ʙʏ𝐓ஜ═❍⊱❁۪۪")
     await asyncio.sleep(0.2)
-    await accha.edit("╔═❰ 𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓 ❱═❍⊱❁۪۪\n║\n║➣ @DO_JISM_EK_JAAN_OP\n║\n║➣ @AGORAWORLD\n║\n║➣ @TEAMAGORA\n║\n╚═ஜ𝐉𝐎𝐈𝐍 𝐓𝐇𝐄𝐒𝐄 𝐀𝐋𝐋 𝐅𝐈𝐑𝐒𝐓ஜ═❍⊱❁۪۪")
+    await accha.edit("╔═❰ ʙᴏᴛ ᴍᴀᴅᴇ ʙʏ❱═❍⊱❁۪۪\n║\n║➣ @SayonaraXd\n║\n║➣ @Sayonaraxdbot\n║\n║➣ @BTS_armysssss\n║\n╚═ஜʙᴏᴛ ᴍᴀᴅᴇ ʙʏஜ═❍⊱❁۪۪")
      
 
 @bot.on_message(
